@@ -104,6 +104,28 @@ This database follows the mapping of the Roland TR-09 instrument:
 * 49 CY Crash cymbal
 * 50 HT High tom
 
+## Estudios Korg Volca Beats ##
+
+* CL: Clap
+* CV: Claves
+* AG: Agogo
+* CY: Crash
+
+### Pachanga 1
+
+4/4, 110
+
+|Drum|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+|----|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|AG  | 0| 1| 0| 0| 1| 1| 0| 1| 1| 0| 1| 1| 0| 0| 1| 1|
+|CV  | 1| 1| 1| 0| 1| 0| 1| 1| 0| 0| 1| 1| 0| 1| 0| 1|
+|CP  | 1| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0| 0|
+|CH  | 1| 0| 1| 0| 1| 0| 1| 0| 1| 0| 1| 0| 1| 0| 1| 0|
+|SD  | 0| 0| 0| 0| 1| 0| 1| 0| 0| 0| 0| 0| 1| 0| 0| 0|
+|BD  | 1| 0| 0| 0| 1| 0| 0| 0| 1| 0| 0| 0| 1| 0| 0| 0|
+
+AG stutter: time 0%, depth 50%
+
 ## Patterns from the book *200 Drum machine patterns*
 
 ### Rock 1
