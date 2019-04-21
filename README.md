@@ -126,6 +126,18 @@ This database follows the mapping of the Roland TR-09 instrument:
 
 AG stutter: time 0%, depth 50%
 
+### House 1
+
+4/4, 126.5
+
+|Drum|01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+|----|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|CH  | 0| 0| 1| 0| 0| 0| 1| 0| 0| 0| 1| 0| 0| 0| 1| 0|
+|CP  | 0| 0| 0| 0| 1| 0| 0| 0| 0| 0| 0| 0| 1| 0| 0| 0|
+|BD  | 1| 0| 0| 0| 1| 0| 0| 0| 1| 0| 0| 0| 1| 0| 0| 0|
+
+CP PCM speed: ~50%
+
 ## Patterns from the book *200 Drum machine patterns*
 
 ### Rock 1
